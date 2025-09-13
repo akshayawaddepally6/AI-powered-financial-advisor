@@ -95,13 +95,14 @@ This project will be released under the **MIT License** (to be confirmed).
 ## Authors & Acknowledgments
 
 ### 👥 Team Members
-- [Akshay Awaddepally](https://github.com/akshayawaddepally6)  
+- [Akshaya Waddepally](https://github.com/akshayawaddepally6)  
 - [Keerthi](https://github.com/keerthi297)  
 
 ### 🙏 Acknowledgments
 - OpenAI GPT API  
 - HuggingFace Transformers  
 - AWS / Azure / GCP cloud services  
+
 
 
 
